@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Breaker
 - A 15-year-old junior high student from China.
-- The teammate from SecureNexusLab
+- The teammate of SecureNexusLab
 - I am interested in cyber security and coding!
 - Web/Pwn
 <!---
